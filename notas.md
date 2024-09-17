@@ -6,4 +6,5 @@
 3. <kbd>ctrl+shift+k</kbd>borrar linea
 4. <kbd>alt+clic</kbd>crear cursos 
 5. <kbd>ctrl+alt+shift+⬆️⬇️</kbd>multiples cursores
-6. Creacion de conflicto
+6. <kbd>ctrl+alt+shift+⬆️⬇️</kbd>modi en linea
+
